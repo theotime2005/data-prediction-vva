@@ -160,7 +160,4 @@ accuracy_score_train = accuracy_score(y_train, y_train_pred)
 print(accuracy_score_train)
 print(accuracy_score_test)
 
-# %%
-x_test
-
 
